@@ -1,4 +1,4 @@
-# PathMonitor
+# PathMonitor [still in dev]
 
 PathMonitor is a Python-based tool for monitoring changes in specified folders. It supports configuration through Excel/CSV files and logs events in JSONL format.
 
@@ -49,3 +49,4 @@ The configuration file should include the following columns:
 ## License
 
 This project is licensed under the MIT License.
+

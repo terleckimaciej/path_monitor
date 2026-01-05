@@ -29,7 +29,7 @@ Run the program with the following command:
 ```bash
 python -m app.cli --sheet-config <path-to-config.xlsx>
 ```
-
+Works best when set to run with system startup via Task Scheduler. State logging is featured, so you won't loose anything.
 ### Arguments
 - `--sheet-config`: Path to the Excel/CSV configuration file (required).
 - `--observer`: Observer mode (`auto`, `polling`, `auto-smart`). Default is `auto-smart`.
@@ -47,4 +47,5 @@ The configuration file should include the following columns:
 - `state_path`: Path to the state file.
 
 ## License
+
 This project is licensed under the MIT License.

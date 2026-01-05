@@ -1,0 +1,5 @@
+pandas==1.5.3
+watchdog>4.1.9
+#pyyaml==6.0.2           # if yaml used 
+python-dotenv==1.0.1    
+openpyxl==3.1.5 
